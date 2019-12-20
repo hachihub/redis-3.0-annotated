@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+c_sds	sds.py	/^c_sds=importlib.import_module("sds")$/;"	v
+ctest	test.py	/^ctest=CDLL('.\/test.so')$/;"	v
+importlib	sds.py	/^import importlib$/;"	i
+importlib	test.py	/^import importlib$/;"	i
+main	test.c	/^int main(int argc, char *argv[])$/;"	f
+sys	sds.py	/^import sys$/;"	i
+sys	test.py	/^import sys$/;"	i
+test	test.c	/^void test()$/;"	f
